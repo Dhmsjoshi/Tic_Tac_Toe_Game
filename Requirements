@@ -1,0 +1,7 @@
+1.Player -> Human , BOT , no of players->(size-1)
+2.Board -> size(n x n)
+3. Symbol - > unique symbol
+4. Move -> cell, player
+5. Cell -> row, col, player, cellState
+6. Bot -> difficultylevel
+7. Game -> List<Players>, List<Moves>, Board, Player, gameState, List<WinningStrategy>
